@@ -410,3 +410,6 @@ Some notable headers include:
 | Source Address      | The IP address of the device that the packet is being sent **from** so that data knows where to **return to**.                                                          |
 | Destination Address | The device's IP address the packet is being sent to so that data knows where to travel next.                                                                            |
 ![[Pasted image 20250212231627.png]]
+
+
+

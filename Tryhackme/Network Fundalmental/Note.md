@@ -194,3 +194,18 @@
 + Frame : là 1 đơn vị dữ liệu tại tầng 2 (Data link layer), giúp truyền dữ liệu giữa các thiết bị trong cùng 1 mạng LAN bằng địa chỉ MAC
 + Packet  : là 1 đơn vị dữ liệu tại tầng 3 (Network Layer). Nó chứa địa chỉ IP của thiết bị gửi và nhận để định tuyến qua nhiều mạng khác nhau
 + Encapsulation : Là quá trình đóng gói dữ liệu từ tầng trên xuống tầng dưới, mỗi tầng sẽ thêm thông tin điều khiển vào dữ liệu gốc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sdfsdf
