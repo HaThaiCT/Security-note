@@ -1,0 +1,1 @@
++ `xxd -r -p <tên file>` :  chuyển file từ mã hex -> văn bản

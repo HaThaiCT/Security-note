@@ -339,3 +339,6 @@
 	+ Switch Layer 2 : Chỉ hoạt động ở tầng 2, chuyển tiếp dữ liệu thông qua địa chỉ MAC
 	+ Switch Layer 3 : Sử dụng 1 số chức năng định tuyến giống router, giúp gửi dữ liệu giữa các mạng bằng giao thức IP
 + VLAN (Virtual Local Area Network) : Cho phép 1 mạng vật lý chia thành nhiều mạng logic khác nhau, mặc dù tất cả các thiết bị đều kết nối cùng 1 switch nhưng chúng có thể được phân tách để hoạt động độc lập, giúp tăng tính bảo mật
+
+
+![[Pasted image 20250223014415.png]]![[Pasted image 20250223121414.png]]
