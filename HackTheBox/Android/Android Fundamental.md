@@ -1,6 +1,6 @@
 # Lời mở đầu
 
-Đây là bản dịch / diễn giải room Android Fundamental trong HackTheBox. Phần lớn nội dung được dịch lại và được diễn giải một cách dễ hiểu hơn. Có một số phần được điều chỉnh bố cục, nội dung gốc để phù hợp hơn với người mới học. Tài liệu này chỉ dùng để bổ trợ trong quá trình học HTB chứ không thể thay thế hoàn toàn tài liệu gốc. Trong quá trình làm bản dịch này chắc chắn sẽ không thiếu những sai sót, các bạn có thể đóng góp ý kiến cho bản dịch dưới phần comment.
+Đây là bản dịch của box Android Fundamental trong HackTheBox. Phần lớn nội dung được dịch lại và được diễn giải một cách dễ hiểu hơn. Có một số phần được điều chỉnh bố cục, nội dung gốc để phù hợp hơn với người mới học. Tài liệu này chỉ dùng để bổ trợ trong quá trình học HTB chứ không thể thay thế hoàn toàn tài liệu gốc. Trong quá trình làm bản dịch này chắc chắn sẽ không thiếu những sai sót, các bạn có thể đóng góp ý kiến cho bản dịch dưới phần comment.
 
 Mặc dù tiêu đề của box là Fundalmental nhưng nội dung chủ yếu là lý thuyết và khó học với người mới. Theo quan điểm của mình, các bạn nên có kiến thức cơ bản về hệ điều hành Linux cùng với kĩ năng lập trình Java căn bản. Các bạn có thể xem trước về lập trình Android bằng Java trên youtube để có cái nhìn tổng thể trước khi học box này. Mình highly recommend các bạn kênh youtube này để học :
 [Tự học Lập Trình Android từ A đến Z - YouTube](https://www.youtube.com/playlist?list=PL6aoXCbsHwIayYCo9aDuzZ3dMC9oShs1u)
